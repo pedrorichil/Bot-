@@ -1,0 +1,33 @@
+{
+    "dono": "1168049311",
+    "manutencao": "false",
+    "userDono": "@TH3CR1PTO",
+    "usergrupo": "",
+    "versao": "3.1.1",
+    "updateDAte": "28/01/2022 - 16:09:15",
+    "price": {
+        "Gold": 5,
+        "Default": 5,
+        "standard": 5,
+        "default": 5,
+        "gold": 5,
+        "platinum": 5,
+        "elo": 5,
+        "bussines": 5,
+        "classic": 5,
+        "corporated": 5,
+        "black": 5,
+        "infiniti": 5,
+        "hypercard": 5
+    },
+    "pricemix": {
+        "2": 30,
+        "default": 10,
+        "5": 50
+    },
+    "welcome": "Você não tem permissão para trocar a mensagem de boas-vindas.",
+    "grupo": "O link do grupo não foi informado.",
+    "suporte": "",
+    "mercadopago": "",
+    "checker": "https://thedeluxebrasil.xyz/mybots/chk.php?lista="
+}
